@@ -1,3 +1,3 @@
 # OP
 
-Operating Systems Course repository, programmed in Java
+Operating Systems Course repository, programmed in C
